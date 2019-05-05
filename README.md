@@ -8,7 +8,7 @@ Running the code
 A) Start the SWI prolog interpreter (run swipl 
 on Lixnux and swipl.exe on Windows).
 
-[alin@localhost typeInf]$ swipl
+[akshat@localhost typeInf]$ swipl
 Welcome to SWI-Prolog (threaded, 64 bits, version 7.6.4)
 -------
 ?-
